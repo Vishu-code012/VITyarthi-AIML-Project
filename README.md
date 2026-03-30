@@ -159,7 +159,7 @@ new_student = pd.DataFrame([{
 
 ## 👤 Author
 
-**[Your Name]**
+**Vishav Raj Singh**
 VIT — Fundamentals of AI and ML (BYOP Submission)
 
 ---
